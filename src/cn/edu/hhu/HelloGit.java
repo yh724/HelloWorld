@@ -5,5 +5,6 @@ public class HelloGit {
         System.out.println("Hello Git！Hello World！");
         System.out.println("This message test fro pull/push");
         System.out.println("Sometimes you have to let things go so there’s room for better things to come into your life.");
+        System.out.println("This message test for clash.[one]");
     }
 }
